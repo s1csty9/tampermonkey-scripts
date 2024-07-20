@@ -1,6 +1,6 @@
 ## Hey guys, these are just some cool tampermonkey scripts I've made, below are descriptions for the scripts:
 
-{\color{lightskyblue}Discord shop remover}: Removes shop from discord because nobody likes that shit
+${{\color{lightskyblue}{\textsf{ Discord shop remover}}}}\$: Removes shop from discord because nobody likes that shit
 
 <code style="color : lightskyblue">Twitch following homepage</code>: Changes twitch.tv's homepage to its following page so you don't get blasted with audio from some random ass streamer you've never heard of
 
