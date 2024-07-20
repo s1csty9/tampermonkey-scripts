@@ -2,6 +2,6 @@
 
 ${{\color{lightskyblue}{\textsf{ Discord shop remover}}}}\$: Removes shop from discord because nobody likes that shit
 
-<code style="color : lightskyblue">Twitch following homepage</code>: Changes twitch.tv's homepage to its following page so you don't get blasted with audio from some random ass streamer you've never heard of
+${{\color{lightskyblue}{\textsf{ Twitch following homepage}}}}\$: Changes twitch.tv's homepage to its following page so you don't get blasted with audio from some random ass streamer you've never heard of
 
-<code style="color : lightskyblue">FIX DISCORD PINGS</code>: A recreation of the classic extension that changes the repulsive yellow that makes me want to kms into a much nicer greyish blue
+${{\color{lightskyblue}{\textsf{ FIX DISCORD PINGS}}}}\$: A recreation of the classic extension that changes the repulsive yellow that makes me want to kms into a much nicer greyish blue
