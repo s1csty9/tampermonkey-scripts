@@ -5,6 +5,7 @@
 // @author       s1csty9
 // @match        *://discord.com/*
 // @grant        GM_addStyle
+// @homepageURL  https://github.com/s1csty9/tampermonkey-scripts
 // ==/UserScript==
 
 (function() {
