@@ -6,6 +6,7 @@
 // @author       s1csty9
 // @match        *://www.twitch.tv/*
 // @run-at       document-start
+// @homepageURL  https://github.com/s1csty9/tampermonkey-scripts
 // ==/UserScript==
 
 (function() {
