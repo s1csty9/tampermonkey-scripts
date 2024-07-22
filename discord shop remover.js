@@ -4,6 +4,7 @@
 // @description  Removes discord shop from the webpage
 // @author       s1csty9
 // @match        https://discord.com/*
+// @homepageURL  https://github.com/s1csty9/tampermonkey-scripts
 // ==/UserScript==
 
 (function() {
