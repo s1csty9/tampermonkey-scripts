@@ -9,3 +9,5 @@ ${{\color{lightskyblue}{\textsf{FIX DISCORD PINGS}}}}\$: A recreation of the cla
 ${{\color{lightskyblue}{\textsf{Remove Recommended Channels}}}}\$: Removes recommended and "viewers also watch" channels from twitch because idgaf about some random ass streamer and would much rather watch the ones I know and like.
 
 ${{\color{lightskyblue}{\textsf{Remove Habitica Party from Topbar}}}}\$: Removes Icons of habitica party members from the topbar where YOUR character is presented. I use habitica for ME and I don't give the slightest fuck about some randoms in my party, I don't need to see their ugly ass avatars on my front page every day.
+
+${{\color{lightskyblue}{\textsf{Make Discord Ping Badges Grey}}}}\$: Makes the ping icons on Discord grey because I don't need some red dot in my face all day on some server where I can't convince the retarded ass admins to stop pinging @everyone but then I can't leave because all my friends are in it or it's part of some project I'm working on.
